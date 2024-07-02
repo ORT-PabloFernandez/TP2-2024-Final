@@ -41,6 +41,9 @@ Si ya terminaste o son las 10:00 asegurate de seguir los siguientes pasos para l
 -GET /api/sales?pageSize=[pageSize]&page=[page]
 
 -GET /api/sales/by-id?salesId=5bd761dcae323e45a93ccfee
+
 -GET /api/sales/store-location?storeLocation=London
+
 -GET /api/sales/filters-sales?storeLocation=London&purchaseMethod=In store&couponUsed=false
+
 -GET /api/sales/client-satisfaction?satisfaction=2
